@@ -1,2 +1,2 @@
 # gymmcome_repository
-for learn python
+这是一个日常测试文档保存器
